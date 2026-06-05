@@ -2,7 +2,7 @@ import React, { useState, useRef } from "react";
 import axios from "axios";
 import "./ReconciliationTool.css";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "";
 
 const FileUploadBox = ({ label, sublabel, icon, fileKey, file, onFileChange }) => {
   const inputRef = useRef();
