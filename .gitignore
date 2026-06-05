@@ -9,4 +9,3 @@ outputs/
 
 # React build (will be generated on deploy)
 reconciliation-frontend/node_modules/
-reconciliation-frontend/build/
