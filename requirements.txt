@@ -1,0 +1,9 @@
+flask
+flask-cors
+pandas
+openpyxl
+pdfplumber
+fuzzywuzzy
+python-Levenshtein
+anthropic
+xlrd
